@@ -1,7 +1,33 @@
-# Final_Project
-HR Analytics - Predicting Employee Attrition
+# 👥 Employee Attrition Analysis
 
-The repository contains 
-1) Python code file with analysis, machine learning models and predicitve model for employee attrition as well as recommendations for HR based on analysis and key features responsible for attrition.
-2) Power Bi visuals for simple yet impactful understanding of employee attrition and key influencers of it.
-3) Dataset on Indian based HR attrition data from Kaggle.
+## 📌 Problem Statement
+High employee attrition leads to increased costs and loss of productivity.
+
+## 🎯 Objective
+Identify key factors contributing to employee attrition and predict potential attrition risks.
+
+## 📂 Dataset
+- Source: IBM HR Analytics Dataset
+- Records: ~1,470 employees
+
+## 🛠️ Tools & Technologies
+- Python
+- Pandas, NumPy
+- Seaborn, Matplotlib
+- Scikit-learn
+
+## 🔍 Methodology
+- Data cleaning and encoding categorical variables
+- EDA to identify attrition patterns
+- Built classification models
+- Evaluated using accuracy and confusion matrix
+
+## 📊 Key Insights
+- High attrition in overtime employees
+- Job role and income strongly influence attrition
+
+## ✅ Conclusion
+The model helps HR teams identify at-risk employees early.
+
+## 👤 Author
+Pallak Sinha
